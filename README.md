@@ -1,8 +1,10 @@
 # Experiment--09-Configuring-UART-in-LPC2148-for-serial-data-transmission-
 
-Name :	Swathika G
+Name :Swathika G
 
 Roll no :212221230113
+
+Date of experiment : 04/11/2022
 
 ## Configuring UART in LPC2148 for serial data transmission 
 
